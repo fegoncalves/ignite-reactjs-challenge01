@@ -51,7 +51,7 @@ Para esse desafio, temos os seguintes testes:
 * **_should be able to add a task_**
 Para que esse teste passe, você deve permitir que task seja criada e com isso, exibida em tela. As taks criadas devem conter os atributos seguindo o padrão da interface, que é:
 
-```json
+```
 interface Task {
   id: number;
   title: string;
